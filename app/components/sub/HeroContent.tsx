@@ -38,7 +38,7 @@ function HeroContent() {
               {" "}
               the best{" "}
             </span>
-            Project Experience
+            Project Exprience
           </span>
         </motion.div>
         <motion.p
